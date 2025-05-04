@@ -86,11 +86,11 @@ Below are example images showing the project in use on a dual-monitor desk setup
 
 ### Coding and Running the Project
 
-![Coding and Running the Project](./input_images/left.jpg)
+![Left Image](./input_images/left.jpg)
 
 ### Dual Monitor Setup
 
-![Dual Monitor Setup](./input_images/right.jpg)
+![Right Image](./input_images/right.jpg)
 
 ### Combined View
 
